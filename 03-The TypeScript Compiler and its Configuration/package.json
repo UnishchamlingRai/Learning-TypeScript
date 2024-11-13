@@ -1,0 +1,15 @@
+{
+  "name": "02-typescript-basics-basic-types",
+  "version": "1.0.0",
+  "description": "learning basic types of typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Unish Rai",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
